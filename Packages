@@ -1,1 +1,16 @@
+Package: cn.llld.fsqsy
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/FaceSwapper去水印_0.0.1_rootless-arm64.deb
+Size: 5832
+MD5sum: db72b8d7c04609ca1209e8dcdffe6605
+SHA1: d58959a9c7cf05e51cd0728a1fec8e9caa0a4be5
+SHA256: 299190bdaf695bf0dba4c75b05fd747d4a292edb91cd30a24ad2ff33ec20078a
+Section: rootless应用会员
+Description: FaceSwapper去除预览水印和导出水印，网上有开心版。
+Author: 来了老弟 X：h_h_x_t
+Name: FaceSwapper
 
