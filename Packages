@@ -1,0 +1,16 @@
+Package: com.yuyi.mdd
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: yuyi <1>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.yuyi.mdd_0.0.2_iphoneos-arm64.deb
+Size: 2442
+MD5sum: b322e213a47797ca32f3dc020a8d93bb
+SHA1: ff14fa012197662d28e11b89b651f6724151d3e0
+SHA256: f3fa5fb13d88bf921be21665ee952d4572ba92dfb6955e43a029b61191cb930e
+Section: Tweaks
+Description: 埋堆堆5.2.41去开屏广告
+Author: 余忆
+Name: 埋堆堆 去开屏
+
