@@ -1,3 +1,19 @@
+Package: com.yuyi.kugou
+Version: 0.2-1
+Architecture: iphoneos-arm64
+Maintainer: yuyi <1>
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yuyi.kugou_0.2-1_iphoneos-arm64.deb
+Size: 2568
+MD5sum: 38a1c80fc019b5e99ab5a59472d3ab1b
+SHA1: f2a4c1401c79e8cb79f6c201cb678a3fdbb83e90
+SHA256: 33d705188cb0edaafbb26f6ea744bc7ff2f6ee90abb4482210ffb24d411cb8e4
+Section: Tweaks
+Description: 去开屏广告
+Author: yuyi <1>
+Name: 酷狗音乐牛爷爷
+
 Package: com.yuyi.mdd
 Version: 0.0.2
 Architecture: iphoneos-arm64
