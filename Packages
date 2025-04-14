@@ -84,42 +84,6 @@ Author: SquidForce, Backup
 Name: SquidExtender(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
-Package: com.huami.dyyy
-Version: 2.1-7-3
-Architecture: iphoneos-arm
-Maintainer: huami
-Installed-Size: 680
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm/com.huami.dyyy_2.1-7-3_iphoneos-arm.deb
-Size: 126464
-MD5sum: a931d75649f8203d367af07e791a7af0
-SHA1: e49f7d41026e049c095574a3a5662c72d1ea8152
-SHA256: f62b988b3701733d7e789509325fd733d69156aa34ac99a463f3dd3a259dc076
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-7-4
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 680
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-7-4_iphoneos-arm64.deb
-Size: 126586
-MD5sum: d03c6b4fb39f695670a68bf996a71f3d
-SHA1: 010f32d4488508a5a2e5919fc9e31b5387de7cfd
-SHA256: 704b233d7b32f69eb119eb922c874dd49aa55fea08f37b6f08a88f6bdc9d2759
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
 Package: com.phucdo.plampyuipro
 Version: 1.0
 Architecture: iphoneos-arm64
