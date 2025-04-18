@@ -36,11 +36,11 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/iphoneos-arm64/o3 分屏付费泄露版①去除联网验证--pro_1.3.7_无根(1).deb
-Size: 1536928
-MD5sum: 037fcb5128c192a3634ac55eb5bcee70
-SHA1: a2e69f21ee2d0e2e8b7d606ee8635df331cb7e45
-SHA256: 2b05b472277563dc20d0af914cfa3128c04146ad047949f9d1ba159e1bfc935e
+Filename: ./debs/iphoneos-arm64/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm64.deb
+Size: 1537160
+MD5sum: 083d8d7d09e35f98f565bcb4786999fd
+SHA1: c1e8851b4f30f4be1a9b402d87631eda41def71b
+SHA256: ab4b1ba16fc82ef5dbd7dad5fd6a25eb038d4a9e398bbc181ae3015b8df21179
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
@@ -77,4 +77,19 @@ Section: Tweaks
 Description: 埋堆堆5.2.41去开屏广告
 Author: 余忆
 Name: 埋堆堆 去开屏
+
+Package: com.yuyi.sctipt
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: yuyi
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.yuyi.sctipt_1.0_iphoneos-arm64.deb
+Size: 2848
+MD5sum: 4d775deb32f15abf35fb069eb6dd5ed2
+SHA1: ed7276b58b97dfe74027248139ab2f01b9350672
+SHA256: 3d69795548fa132cd6720dc9844aaad197bf0eba79de9092ce2a9628128d9e3f
+Section: script脚本
+Author: yuyi
+Name: script脚本
 
