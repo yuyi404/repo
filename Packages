@@ -14,6 +14,21 @@ Description: FaceSwapper去除预览水印和导出水印，网上有开心版�
 Author: 来了老弟 X：h_h_x_t
 Name: FaceSwapper
 
+Package: cn.llld.hhxt
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X :h_h_x_t
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/iphoneos-arm64/cn.llld.hhxt_1.1_iphoneos-arm64.deb
+Size: 9004
+MD5sum: 9a092aa67e1db12ff442f152cbb50d3f
+SHA1: f5d1f4421767e7a46f08cade8d7bb4da06d0d3c5
+SHA256: 5166be4ed5023b9f3c08840b9b1380cfcf64937033d15c7052f2f1072ff50c96
+Section: rootless插件
+Description: rootful tweak can be used on xina2 or rootless (first release the first version, the root tweak is waiting for me to upload it, it is useless to install it alone, it needs to be combined with the tweak I uploaded)。让有根插件可以在xina2或者rootless上使用，(先发个初版，单独装这个没用，需要搭配我上传的插件,目前部分插件在：兼容层oldabi-rootless，以后（有别的分区或修复去掉oldabi,仅装这个即可）
+Author: 来了老弟 h_h_x_t
+Name: xina2-rootless串联
+
 Package: cn.llld.pixactpro
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -29,6 +44,25 @@ Section: rootless应用会员
 Description: Pixact专业版
 Author: 来了老弟 X：h_h_x_t
 Name: Pixact-Pro
+
+Package: com.Axs.picturemodule
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 12.0), mobilesubstrate, com.opa334.ccsupport, oldabi
+Conflicts: com.4nni3.picturemodule
+Filename: ./debs/iphoneos-arm64/com.Axs.picturemodule_1.2_iphoneos-arm64.deb
+Size: 6689604
+MD5sum: e75bf14d0e4105f0d1a16597f1df51a6
+SHA1: 98b1b5e36354a43abbd834417576c9810265ad5f
+SHA256: abeab8fc0ebe81416801da1cf8318641870d48bcb078a1ba94584c16493de88e
+Section: Tweaks
+Description: Decorate your control center with photos, videos and widgets!
+Author: 4nni3
+Depiction: Axs
+Icon: https://axs66.github.io/repo/icon/picturemodel.png
+Name: PictureModule控制中心视频
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.3.7
@@ -92,4 +126,21 @@ SHA256: 3d69795548fa132cd6720dc9844aaad197bf0eba79de9092ce2a9628128d9e3f
 Section: script脚本
 Author: yuyi
 Name: script脚本
+
+Package: jp.soh.freepip
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/jp.soh.freepip_0.0.4_iphoneos-arm64.deb
+Size: 4980
+MD5sum: 6cd78423167662ab60bf2a89c758c406
+SHA1: 765e5609fff3e58efa698b8afb25d4753c029d81
+SHA256: 3750efe92ac3a14ad1d00d080430da2db00d85e8fd7f0300d50cea61b4a35c95
+Section: 插件
+Description: 解锁画中画限制，双指随意放大，无设置项。
+Author: Soh Satoh
+Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
+Name: FreePIP
 
