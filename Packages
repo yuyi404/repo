@@ -45,6 +45,54 @@ Description: Pixact专业版
 Author: 来了老弟 X：h_h_x_t
 Name: Pixact-Pro
 
+Package: com.82flex.ohmyinsets
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.ohmyinsets_1.2_iphoneos-arm64.deb
+Size: 209802
+MD5sum: 1d595efd012858682ead366c90a95a45
+SHA1: 1092af85f92a41146be7e593e61ad5a48af950b1
+SHA256: aad70e04ea0ad71287a0f7d0e81f32f5a35068d9d97681e8e35fe97fe594919e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica <82flex@gmail.com>
+Name: Oh My Insets
+
+Package: com.82flex.ohmyinsets
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.ohmyinsets_1.2_iphoneos-arm64e.deb
+Size: 208986
+MD5sum: d1eb48d7603ba987b6a234054a3ce520
+SHA1: 11afed170b0012e26b34b00c8612decb441b8543
+SHA256: 25599e2c33610fe1e2b1a772bd9283e607bdc45a80ab45c55ae35e200d4a34b6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica <82flex@gmail.com>
+Name: Oh My Insets
+
+Package: com.82flex.ohmyinsets
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.ohmyinsets_1.2_iphoneos-arm.deb
+Size: 210282
+MD5sum: 04992a0a6c0e45456b31bac174e93043
+SHA1: f49d9e8b6caba89b9531f2b5c299a7e70dbf5689
+SHA256: 2d71f9da9065ff1261bc6ba1d60d92c8316615a72eb3048d9c93968e1d83173c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica <82flex@gmail.com>
+Name: Oh My Insets
+
 Package: com.Axs.picturemodule
 Version: 1.2
 Architecture: iphoneos-arm64
