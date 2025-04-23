@@ -135,10 +135,10 @@ Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/com.yuyi.fish_1.0_iphoneos-arm64.deb
 Size: 2880
-MD5sum: b19586439d5eb153568eac45c3acef49
-SHA1: 44b40812bb9e680fda543f4d81e7b1774a58268f
-SHA256: 276ebc93a6b966f47a04968d1a6072bfd72826674004fbe3de887fb00164e1cc
-Section: fish脚本
+MD5sum: adc983b08642654c9f969c39bbc62054
+SHA1: 816658d1930929786286888f5a1a9b2e90e35271
+SHA256: 98994e6a071e4280fe4c1bb1c7436895d7ccc601f509611ddf4ddcadfd53b334
+Section: 脚本
 Description: 自用
 Author: yuyi
 Name: fish脚本
@@ -181,11 +181,12 @@ Maintainer: yuyi
 Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/com.yuyi.sctipt_1.0_iphoneos-arm64.deb
-Size: 2848
-MD5sum: 4d775deb32f15abf35fb069eb6dd5ed2
-SHA1: ed7276b58b97dfe74027248139ab2f01b9350672
-SHA256: 3d69795548fa132cd6720dc9844aaad197bf0eba79de9092ce2a9628128d9e3f
-Section: script脚本
+Size: 2856
+MD5sum: 1ce63b7555e91bd55ca9a472707dcc92
+SHA1: 596fbf4c09d5e96cc7ab7f464308694ffc61444f
+SHA256: dfd9a66cf961f07befacdebfc3f4b748a194fdafc1d27333a91ea10c925e9fc7
+Section: 脚本
+Description: 自用
 Author: yuyi
 Name: script脚本
 
