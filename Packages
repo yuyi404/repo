@@ -127,6 +127,22 @@ Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.yuyi.fish
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: yuyi
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.yuyi.fish_1.0_iphoneos-arm64.deb
+Size: 2880
+MD5sum: b19586439d5eb153568eac45c3acef49
+SHA1: 44b40812bb9e680fda543f4d81e7b1774a58268f
+SHA256: 276ebc93a6b966f47a04968d1a6072bfd72826674004fbe3de887fb00164e1cc
+Section: fish脚本
+Description: 自用
+Author: yuyi
+Name: fish脚本
+
 Package: com.yuyi.lolmqgg
 Version: 0.3
 Architecture: iphoneos-arm64
