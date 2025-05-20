@@ -110,6 +110,70 @@ Author: 4nni3
 Depiction: Axs
 Name: PictureModule控制中心视频
 
+Package: com.baiy.switchtheme
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: baiy（qq：961666883））
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.baiy.switchtheme_1.0.0_iphoneos-arm64.deb
+Size: 43320
+MD5sum: 6076d0fa330c9ff6ff633937dee44a89
+SHA1: 7c62f037af8d98a25af99b6d6c2533852871e93f
+SHA256: 2c1cc1f0ccd0dd49140710dbb14a08d89ce700e94a01f1cd9a5cade0c28cac33
+Section: Tweaks
+Description: 这一款全新的开关主题，以半透的风格绘制的三勾玉写轮眼为核心设计，开启时勾玉缓缓旋转，带来极致是丝滑体验。
+Author: 白衣
+Name: SwitchTheme
+
+Package: com.simon.ccmusic
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 428
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/控制中心音乐模块_1.0.5.deb
+Size: 28712
+MD5sum: f7dc47987273d570e9787e58e762e6bd
+SHA1: 0053b1c89cf328d9d310556409cf7e301a0a8acc
+SHA256: 7dfdc95356d5ed61791a5d9337b2211fea0b7dc81a8d023fa62e2c52023a0e02
+Section: Tweaks
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Name: 控制中心音乐模块动画
+
+Package: com.simon.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 432
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/灵动岛跳舞_1.1.8_iphoneos-arm64.deb
+Size: 29104
+MD5sum: f0e4a1e2330362c6532d74f968f8c48f
+SHA1: 3707f1b7c626ab5d214243681c6d8df987702d6f
+SHA256: d6085a95bdba247ef8b36368123a173e48fb5520f82164518938e19dbdafe875
+Section: Tweaks
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Name: 灵动岛跳舞动画PLUS
+
+Package: com.skypain.lookinloader
+Version: 1.2.8-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 4332
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.skypain.lookinloader_1.2.8-2_iphoneos-arm64.deb
+Size: 611378
+MD5sum: 9a508705392f108fe09fca2423c5f781
+SHA1: 02253cdc6d3fe904c828722070fafbc358af2ca0
+SHA256: 11f10c43b08482adae2f97a3e0b2690a993358e96c38f9bbd4c67420edf5fdc3
+Section: Tweaks
+Description: Lookin UI调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: LookinLoader
+
 Package: com.sunshinesong.split-view-pro
 Version: 1.3.7
 Architecture: iphoneos-arm64
@@ -138,6 +202,22 @@ Size: 2880
 MD5sum: adc983b08642654c9f969c39bbc62054
 SHA1: 816658d1930929786286888f5a1a9b2e90e35271
 SHA256: 98994e6a071e4280fe4c1bb1c7436895d7ccc601f509611ddf4ddcadfd53b334
+Section: 脚本
+Description: 自用
+Author: yuyi
+Name: fish脚本
+
+Package: com.yuyi.fish
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: yuyi
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.yuyi.fish_2.0_iphoneos-arm64.deb
+Size: 4156
+MD5sum: f776dcbcfd70616e736280ff780434af
+SHA1: 59a23e1ba13579afc422e2d48f8ae71a2a793675
+SHA256: c28e4286deeaab5ed1bdd38b97f5f5332a0c86f96e142f3afe86298753d838e8
 Section: 脚本
 Description: 自用
 Author: yuyi
