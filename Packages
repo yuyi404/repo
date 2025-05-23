@@ -128,6 +128,24 @@ Name: SwitchTheme
 
 Package: com.huami.dyyy
 Version: 2.1-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 680
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy_2.1-7_iphoneos-arm64.deb
+Size: 117244
+MD5sum: b64901955ad9b3ea203352d43875b9d0
+SHA1: 695fadcbfcb0128c16339092fd20875f5fc18acc
+SHA256: 56fee591e91a6e9aa63ce2a0ae45b7189603b025f54d58a2a2c886eccb12a9b5
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.1-7
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 680
