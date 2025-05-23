@@ -126,6 +126,24 @@ Description: 这一款全新的开关主题，以半透的风格绘制的三勾�
 Author: 白衣
 Name: SwitchTheme
 
+Package: com.huami.dyyy
+Version: 2.1-7
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 680
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-7_iphoneos-arm64e.deb
+Size: 117584
+MD5sum: 5a0954563b9f759c15b293bc05fec66f
+SHA1: dd0c6f2f7db418cab9b31ece7fcadaf8729f4c0f
+SHA256: 3e023fcafe5e28dd71abf773f72a66af79aa1b796a67da84e573a6f02bc62dd9
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
 Package: com.simon.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64
