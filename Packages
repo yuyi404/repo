@@ -235,12 +235,12 @@ Installed-Size: 348
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.nathan.dynamicnotland
 Filename: ./debs/iphoneos-arm64/com.yuyi.dynamicnotland_1.2.4_iphoneos-arm64.deb
-Size: 12196
-MD5sum: ab459e35f44d73770bb3c8bee1f8900b
-SHA1: 8c435b84136e2c44540bdbe9483b48f1c93a1064
-SHA256: 77cac5ea737a8152f795b778c6b3c5799e803e71d05cc00f62bd21a44ddefb08
+Size: 12148
+MD5sum: 3162bc971653d87b1f8a6bc6bb6a616f
+SHA1: a35d4c639cb5964fb0c21032dc5fc060cef7bfc1
+SHA256: e08d185fbb776128606cf49f6f73a8d95b5edfb62bc6ef7bf1bc4278247c1726
 Section: Tweaks
-Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛，有些有强迫症的人有此需求，能理解但不支持！
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛。上架备份！
 Author: Nathan
 Name: DynamicNotLand隐藏灵动岛
 
