@@ -162,6 +162,39 @@ Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Name: DYYY
 
+Package: com.nathan.dynamicnotland
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotland_1.2.4_iphoneos-arm64.deb
+Size: 12148
+MD5sum: a8f4fd99f222189753a096c3b516d89c
+SHA1: 63c98f76a6113649e3d961892a1da9654b451b7e
+SHA256: 72557450ae175a28c053e5d49b897f9928ee70696fd4d0858c2c5371da83ba35
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛。上架备份！
+Author: Nathan
+Name: DynamicNotLand隐藏灵动岛
+
+Package: com.nathan.dynamicnotland
+Version: 1.2.4-5
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotland_1.2.4-5_iphoneos-arm64.deb
+Size: 12552
+MD5sum: ae76e1c200ab59666f7cb7638f14314d
+SHA1: e495c6c7bfe73df8978f4318b2d9c06f47359b33
+SHA256: 45983e7b6beddd2663686e27f43e5861a8c3b28d4b88b4157cef821852012bda
+Section: Tweaks
+Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Name: DynamicNotLand
+
 Package: com.simon.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -226,23 +259,6 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
-
-Package: com.yuyi.dynamicnotland
-Version: 1.2.4
-Architecture: iphoneos-arm64
-Maintainer: yuyi
-Installed-Size: 348
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.nathan.dynamicnotland
-Filename: ./debs/iphoneos-arm64/com.yuyi.dynamicnotland_1.2.4_iphoneos-arm64.deb
-Size: 12148
-MD5sum: 3162bc971653d87b1f8a6bc6bb6a616f
-SHA1: a35d4c639cb5964fb0c21032dc5fc060cef7bfc1
-SHA256: e08d185fbb776128606cf49f6f73a8d95b5edfb62bc6ef7bf1bc4278247c1726
-Section: Tweaks
-Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛。上架备份！
-Author: Nathan
-Name: DynamicNotLand隐藏灵动岛
 
 Package: com.yuyi.fish
 Version: 1.0
