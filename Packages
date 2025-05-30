@@ -323,6 +323,81 @@ Description: 埋堆堆5.2.41去开屏广告
 Author: 余忆
 Name: 埋堆堆 去开屏
 
+Package: com.yuyi.qqhook
+Version: 0.1
+Architecture: iphoneos-arm64
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.yuyi.qqhook_0.1_iphoneos-arm64.deb
+Size: 6818
+MD5sum: d668740179ab7334946f26039e8d0ac4
+SHA1: 1d223c714e4716bef925d052333a8e8c3ad78212
+SHA256: c541f08eb37bcc0e2dd1d371ebcf83fc8f1400dbbc04669bac21ab57fc6fa2a5
+Section: Tweaks
+Description: QQ聊天界面底栏工具透明
+Author: 余忆
+Name: QQhook
+
+Package: com.yuyi.qqhook
+Version: 0.2
+Architecture: iphoneos-arm64
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.yuyi.qqhook_0.2_iphoneos-arm64.deb
+Size: 7110
+MD5sum: 148ed10fcd121429b462fb39d528d622
+SHA1: 76402f831649b1905f638e49b57fc55b63d7d6ab
+SHA256: f3b691f7f83caac9531714490e97f107afbc65e6e8ca1b64108347488184a3ed
+Section: Tweaks
+Description: QQ聊天界面底栏工具透明
+Author: 余忆
+Name: QQhook
+
+Package: com.yuyi.qqhook
+Version: 0.2.1
+Architecture: iphoneos-arm64
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.yuyi.qqhook_0.2.1_iphoneos-arm64.deb
+Size: 7348
+MD5sum: 287434a29a5e31071b137b9e99a6ae55
+SHA1: 6bfab7ba9a87a068ec0d855f1c245736afa86965
+SHA256: 088955d96b935eb71ccd9cee9f85bb6effe7bbb2f84038310efa04c9f536fb52
+Section: Tweaks
+Description: QQ聊天界面底栏工具透明
+Author: 余忆
+Name: QQhook
+
+Package: com.yuyi.qqhook
+Version: 0.2.2
+Architecture: iphoneos-arm64
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.yuyi.qqhook_0.2.2_iphoneos-arm64.deb
+Size: 7860
+MD5sum: ccc8df478eaeaf2ed2486311aee94a92
+SHA1: 6959065de21961f0c8a5342afa2bee436cc22091
+SHA256: e2c51f86a5e2f33f69614f953432be1b62af93b5928e7ba1f8c8ef9d4c39d939
+Section: Tweaks
+Description: QQ部分界面透明
+Author: 余忆
+Name: QQhook
+
+Package: com.yuyi.qqhook
+Version: 0.2.3
+Architecture: iphoneos-arm64
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.yuyi.qqhook_0.2.3_iphoneos-arm64.deb
+Size: 8138
+MD5sum: 80905c8658119047d1fbbd222bc995e7
+SHA1: a9fd8eb7e8dc82b020650ffbf964f26bb1157439
+SHA256: 3b289b09f967e734e7506de8350182c6cd53874dfb2f2e5a83b4b0a1cf07934f
+Section: Tweaks
+Description: QQ部分界面透明
+Author: 余忆
+Name: QQhook
+
 Package: com.yuyi.sctipt
 Version: 1.0
 Architecture: iphoneos-arm64
