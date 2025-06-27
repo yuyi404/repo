@@ -1,0 +1,16 @@
+Package: com.77Theme.xin.arm64
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: cc@theme77.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/1.0.7-arm64.deb
+Size: 7216102
+MD5sum: 1d53c3d70f37db4d98b5ff92aff49c9c
+SHA1: 848b75fc543e0f0a2444a055176ac9d7e64e12ff
+SHA256: a6382804d2c69023a5c7e99de9f5490d46d9d986aa92412d9817cca408c69c2e
+Section: Rootless
+Priority: optional
+Description: 77Theme-Rootless
+Author: CC
+Name: 77Theme-Rootless
+
