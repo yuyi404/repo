@@ -126,6 +126,20 @@ Description: 这一款全新的开关主题，以半透的风格绘制的三勾�
 Author: 白衣
 Name: SwitchTheme
 
+Package: com.huami.WCExtractRes
+Version: 2.7
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.WCExtractRes_2.7_iphoneos-arm64_rootless.deb
+Size: 1198116
+MD5sum: c8790a4f06679a4795e7da97e916777b
+SHA1: bb1d81b3e11b0f9fb37ff3d257663a9895b50a31
+SHA256: 0e096f286ae67193ac9800faa9542c83eb4b9854953a3d7e01bd2505a77f6d51
+Section: Tweak
+Priority: optional
+Author: huami
+Name: WCExtractRes
+
 Package: com.huami.dyyy
 Version: 2.1-7
 Architecture: iphoneos-arm64
