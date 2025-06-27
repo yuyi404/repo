@@ -47,22 +47,6 @@ Name: Pixact-Pro
 
 Package: com.82flex.ohmyinsets
 Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 1600
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64/com.82flex.ohmyinsets_1.2_iphoneos-arm64.deb
-Size: 209802
-MD5sum: 1d595efd012858682ead366c90a95a45
-SHA1: 1092af85f92a41146be7e593e61ad5a48af950b1
-SHA256: aad70e04ea0ad71287a0f7d0e81f32f5a35068d9d97681e8e35fe97fe594919e
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Lessica <82flex@gmail.com>
-Name: Oh My Insets
-
-Package: com.82flex.ohmyinsets
-Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1600
@@ -72,6 +56,22 @@ Size: 208986
 MD5sum: d1eb48d7603ba987b6a234054a3ce520
 SHA1: 11afed170b0012e26b34b00c8612decb441b8543
 SHA256: 25599e2c33610fe1e2b1a772bd9283e607bdc45a80ab45c55ae35e200d4a34b6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica <82flex@gmail.com>
+Name: Oh My Insets
+
+Package: com.82flex.ohmyinsets
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.ohmyinsets_1.2_iphoneos-arm64.deb
+Size: 209802
+MD5sum: 1d595efd012858682ead366c90a95a45
+SHA1: 1092af85f92a41146be7e593e61ad5a48af950b1
+SHA256: aad70e04ea0ad71287a0f7d0e81f32f5a35068d9d97681e8e35fe97fe594919e
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Lessica <82flex@gmail.com>
@@ -126,19 +126,23 @@ Description: 这一款全新的开关主题，以半透的风格绘制的三勾�
 Author: 白衣
 Name: SwitchTheme
 
-Package: com.huami.WCExtractRes
-Version: 2.7
-Architecture: iphoneos-arm64
+Package: com.huami.dyyy
+Version: 2.1-7
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 680
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.WCExtractRes_2.7_iphoneos-arm64_rootless.deb
-Size: 1198116
-MD5sum: c8790a4f06679a4795e7da97e916777b
-SHA1: bb1d81b3e11b0f9fb37ff3d257663a9895b50a31
-SHA256: 0e096f286ae67193ac9800faa9542c83eb4b9854953a3d7e01bd2505a77f6d51
-Section: Tweak
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-7_iphoneos-arm64e.deb
+Size: 117584
+MD5sum: 5a0954563b9f759c15b293bc05fec66f
+SHA1: dd0c6f2f7db418cab9b31ece7fcadaf8729f4c0f
+SHA256: 3e023fcafe5e28dd71abf773f72a66af79aa1b796a67da84e573a6f02bc62dd9
+Section: Tweaks
 Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
-Name: WCExtractRes
+Name: DYYY
 
 Package: com.huami.dyyy
 Version: 2.1-7
@@ -151,24 +155,6 @@ Size: 117244
 MD5sum: b64901955ad9b3ea203352d43875b9d0
 SHA1: 695fadcbfcb0128c16339092fd20875f5fc18acc
 SHA256: 56fee591e91a6e9aa63ce2a0ae45b7189603b025f54d58a2a2c886eccb12a9b5
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.1-7
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 680
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-7_iphoneos-arm64e.deb
-Size: 117584
-MD5sum: 5a0954563b9f759c15b293bc05fec66f
-SHA1: dd0c6f2f7db418cab9b31ece7fcadaf8729f4c0f
-SHA256: 3e023fcafe5e28dd71abf773f72a66af79aa1b796a67da84e573a6f02bc62dd9
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
