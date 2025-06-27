@@ -292,22 +292,6 @@ Description: 自用
 Author: yuyi
 Name: fish脚本
 
-Package: com.yuyi.fish
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: yuyi
-Installed-Size: 5624
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.yuyi.fish_2.2_iphoneos-arm64.deb
-Size: 99421604
-MD5sum: ab7886cce92d1b716bef7a73573b2a19
-SHA1: 907c08b82d7bf1140109c94d9415e7caf4c8279f
-SHA256: 8fc47ece2d1280fe98b446e185b815d936525a037afc0870d6085ed7e7e6e248
-Section: 脚本
-Description: 自用
-Author: yuyi
-Name: fish脚本
-
 Package: com.yuyi.lolmqgg
 Version: 0.3
 Architecture: iphoneos-arm64
