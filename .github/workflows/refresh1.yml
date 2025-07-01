@@ -1,4 +1,4 @@
-name: "refresh"
+name: "refresh1"
 
 on:
   workflow_run:
