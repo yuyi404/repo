@@ -17,6 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          ref: master
           submodules: recursive
           token: ${{ secrets.GITHUB_TOKEN }}  # 使用默认 token
 
