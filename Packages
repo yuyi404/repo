@@ -431,24 +431,3 @@ Author: Soh Satoh
 Icon: https://s1.imagehub.cc/images/2025/01/03/379617e90dc02b790c6c1daf8ffcb8ba.png
 Name: FreePIP
 
-Package: ru.rj.ftt
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: Randy420 <randy.skinner@hotmail.com>
-Installed-Size: 1300
-Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
-Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
-Filename: ./debs/ru.rj.ftt_1.4_iphoneos-arm64.deb
-Size: 354932
-MD5sum: 310c983b90a840f4c31fb4b1432c30c7
-SHA1: 642a1d7d24366d6fec29d585d935ffb0aff2dd47
-SHA256: 3a0240229e8abb1b9293fede0678770f5a5bd3ecef48d7246f5948e6d6f091b4
-Section: 工具
-Homepage: https://theemeraldisle.family
-Description: First made by iPadkid358 - then updated by myself. Change Flex 3 patches into Theos projects using simple terminal commands.
-  
- - Use 'ftt -?' For a full list of options.
-Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
-Depiction: https://Randy-420.GitHub.io/depic/ftt.html
-Name: Flex To Theos
-
