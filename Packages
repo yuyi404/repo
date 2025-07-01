@@ -438,7 +438,7 @@ Maintainer: Randy420 <randy.skinner@hotmail.com>
 Installed-Size: 1300
 Depends: mobilesubstrate, com.randy420.tools (>=2.3.7)
 Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
-Filename: ./debs/ru.rj.ftt_1.4_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/ru.rj.ftt_1.4_iphoneos-arm64.deb
 Size: 354932
 MD5sum: 310c983b90a840f4c31fb4b1432c30c7
 SHA1: 642a1d7d24366d6fec29d585d935ffb0aff2dd47
