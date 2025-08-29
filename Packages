@@ -47,6 +47,22 @@ Name: Pixact-Pro
 
 Package: com.82flex.ohmyinsets
 Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm/com.82flex.ohmyinsets_1.2_iphoneos-arm.deb
+Size: 210282
+MD5sum: 04992a0a6c0e45456b31bac174e93043
+SHA1: f49d9e8b6caba89b9531f2b5c299a7e70dbf5689
+SHA256: 2d71f9da9065ff1261bc6ba1d60d92c8316615a72eb3048d9c93968e1d83173c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica <82flex@gmail.com>
+Name: Oh My Insets
+
+Package: com.82flex.ohmyinsets
+Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 1600
@@ -72,22 +88,6 @@ Size: 209802
 MD5sum: 1d595efd012858682ead366c90a95a45
 SHA1: 1092af85f92a41146be7e593e61ad5a48af950b1
 SHA256: aad70e04ea0ad71287a0f7d0e81f32f5a35068d9d97681e8e35fe97fe594919e
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Lessica <82flex@gmail.com>
-Name: Oh My Insets
-
-Package: com.82flex.ohmyinsets
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 1600
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm/com.82flex.ohmyinsets_1.2_iphoneos-arm.deb
-Size: 210282
-MD5sum: 04992a0a6c0e45456b31bac174e93043
-SHA1: f49d9e8b6caba89b9531f2b5c299a7e70dbf5689
-SHA256: 2d71f9da9065ff1261bc6ba1d60d92c8316615a72eb3048d9c93968e1d83173c
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Lessica <82flex@gmail.com>
@@ -125,6 +125,20 @@ Section: Tweaks
 Description: 这一款全新的开关主题，以半透的风格绘制的三勾玉写轮眼为核心设计，开启时勾玉缓缓旋转，带来极致是丝滑体验。
 Author: 白衣
 Name: SwitchTheme
+
+Package: com.huami.WCExtractRes
+Version: 2.8
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/新.deb
+Size: 1279946
+MD5sum: 990ab1c08e6240bb2834e9f1cef065e3
+SHA1: 9ab408e32d7aec5ac40643ae88a22e9adf81d878
+SHA256: 4a4b5a3a474ad0daaf61f0d61a4b279940055743cf2442ccd4d371cd0e8dcf7d
+Section: Tweak
+Priority: optional
+Author: huami
+Name: WCExtractRes
 
 Package: com.huami.dyyy
 Version: 2.1-7
@@ -194,6 +208,22 @@ Section: Tweaks
 Description: A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
 Author: Nathan
 Name: DynamicNotLand
+
+Package: com.nx.stheno
+Version: 13.14
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/com.nx.stheno_13.14_iphoneos-arm64.deb
+Size: 362016
+MD5sum: 0d93780ad192df0b4789d86e24f7ccfb
+SHA1: 6e28b859fe93258c49aa4dd322ac8ef0393e52e0
+SHA256: bd65586a28d5574892989197e3a219e30b809fca0e4146e953f45a5935197785
+Section: Tweaks
+Description: Medusa!
+Author: Crassna
+Name: Stheno
 
 Package: com.simon.ccmusic
 Version: 1.0.5
