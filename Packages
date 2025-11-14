@@ -259,6 +259,22 @@ Description: Medusa!
 Author: Crassna
 Name: Stheno
 
+Package: com.nx.stheno
+Version: 77.1.4.7
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1928
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/iphoneos-arm64/com.nx.stheno_77.1.4.7_iphoneos-arm64.deb
+Size: 362776
+MD5sum: e343cda92e44c0bfa5bd6c046f29040c
+SHA1: 54be376d5f4f8741f6445a22202562f61c8d39d7
+SHA256: e574a172daa50b4edeb9d376d4b7572638f4a348fe1dd0b401854ed8ca786ff3
+Section: Tweaks
+Description: Medusa!
+Author: Crassna
+Name: Stheno
+
 Package: com.simon.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64
