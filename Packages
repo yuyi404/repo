@@ -126,6 +126,24 @@ Description: 这一款全新的开关主题，以半透的风格绘制的三勾�
 Author: 白衣
 Name: SwitchTheme
 
+Package: com.be-huge.floating-view
+Version: 1.5.6-9
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/floatingView-1.5.6-9-iphoneos-arm64.deb
+Size: 637456
+MD5sum: 39f4b907c6f6038079c216c22c119964
+SHA1: 6cc5ace6fca2b9138c2f3bc28f92787437e34799
+SHA256: f11bd4a26e4f4eaca94a25bc3545c6723991570814dc8843cd672bd5f792e3de
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+Name: floatingView
+Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
 Package: com.huami.WCExtractRes
 Version: 2.8
 Architecture: iphoneos-arm64
