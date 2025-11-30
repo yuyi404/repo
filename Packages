@@ -496,6 +496,22 @@ Description: QQ部分界面透明
 Author: 余忆
 Name: QQhook
 
+Package: com.yuyi.screenshot
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: yuyi
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.yuyi.screenshot_0.1_iphoneos-arm64.deb
+Size: 18954
+MD5sum: 6d4c35904aab3dbfaac9962670e50455
+SHA1: 9a895cd15ec94bc7a2c3049f90568f8d8ebb0491
+SHA256: bd8f923688ec37245951bb4e489e001ad2b4fb9231432c4d39f0e7c9094d2169
+Section: Tweaks
+Description: 截图
+Author: yuyi
+Name: Screenshot
+
 Package: com.yuyi.sctipt
 Version: 1.0
 Architecture: iphoneos-arm64
