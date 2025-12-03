@@ -503,11 +503,11 @@ Maintainer: yuyi
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/com.yuyi.qqurl_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 3084
-MD5sum: 06d7929697b99fc30c3cb2b7feb0a1bc
-SHA1: 64a157e7ba3d98969fda560a28a2ca4aa7fce94a
-SHA256: 36f0e6517cef7d708e14cec5c0b5a414a3cc6206f2264993e8ca8dc7e0af4a6f
-Section: Tweaks
+Size: 3098
+MD5sum: b29a8c4cac38638d23f7181b23d4c85d
+SHA1: 69245fa82a532593cef9841aee8e6305d77a756d
+SHA256: b523dc550855a7f97d54a2a175657025f1c939bd1fc9d72bd802693655f7ceae
+Section: 自制
 Description: QQ外链强开
 Author: yuyi
 Name: qqurl
