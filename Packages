@@ -358,6 +358,20 @@ Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.xuu.RuntimeClassDump
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: yuyi
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xuu.RuntimeClassDump_0.1_iphoneos-arm64.deb
+Size: 191848
+MD5sum: ac717312aa62c8598354d2f6aed85959
+SHA1: 48f1569831f63a37031543970fdcee6c3caf2691
+SHA256: c014e864d063d25d67cdd7921989cdd2454e7f3a49155f31c18571b334782868
+Section: 自制
+Author: xuu
+Name: RuntimeClassDump
+
 Package: com.yuyi.fish
 Version: 1.0
 Architecture: iphoneos-arm64
