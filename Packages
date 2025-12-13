@@ -372,6 +372,22 @@ Section: 自制
 Author: xuu
 Name: RuntimeClassDump
 
+Package: com.yuyi.button
+Version: 0.0.1-6+debug
+Architecture: iphoneos-arm64
+Maintainer: yuyi
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.yuyi.button_0.0.1-6+debug_iphoneos-arm64.deb
+Size: 17306
+MD5sum: 71de6d660bd7e069ef907e721228d9fc
+SHA1: 9992aaae41b08a58e0994a9d556ccc5c97c309b8
+SHA256: 8d61c0c69368a376122d5035ad67f5a28d5916319515f943af70d29188b777d0
+Section: 自制
+Description: An awesome MobileSubstrate tweak!
+Author: yuyi
+Name: button
+
 Package: com.yuyi.fish
 Version: 1.0
 Architecture: iphoneos-arm64
