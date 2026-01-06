@@ -209,6 +209,39 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.8-5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3360
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-5_iphoneos-arm64.deb
+Size: 655604
+MD5sum: bd4ba824a8768e2e9356969ede40d6fc
+SHA1: 13dcb135cd39aa09e35a611494441809a3799523
+SHA256: a9d2c81b33dfb3e88204aedab8676df74e257c76a29976c1724717a722fc7ca0
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.8-5
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 3360
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.8-5_iphoneos-arm64e.deb
+Size: 1761824
+MD5sum: 6bdcb61c0e1265eaec48267e2355348a
+SHA1: 72eb1ed3dfb8953be3a1eeaa5c0ef5925c2706d4
+SHA256: 43bae3ea3b16915fa1bd26b2ad2e3623853240af80a119c50091aeab6968ed35
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Name: floatingView
+
 Package: com.huami.WCExtractRes
 Version: 2.8
 Architecture: iphoneos-arm64
@@ -407,6 +440,24 @@ Section: Tweaks
 Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
 Author: Simon
 Name: 灵动岛跳舞动画PLUS
+
+Package: com.sini.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/com.sini.horizontalsliders_0.0.1_iphoneos-arm64.deb
+Size: 10612
+MD5sum: b32289e79ba9c47e93f8ea8447b506e3
+SHA1: d607240da64e141b8847e00f8b20a0bb39ed53bb
+SHA256: 9675ab09f10c1f41f0f588a2977466d45d55555d29cb5e3c5e8bd1626a608416
+Section: 控制中心
+Description: 将控制中心的亮度和音量滑块横过来。
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/horizontalsliders.png
+Name: HorizontalSliders(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/horizontalsliders/js.json
 
 Package: com.skypain.lookinloader
 Version: 1.2.8-2
