@@ -1,0 +1,15 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{390, 190}",
+  "itemCornerRadius": 10,
+  "position": "bottom", // 新增位置参数：top/bottom/center 可选
+  "bottomMargin": 20,   // 配套参数：控制底部间距
+  "banners": [
+    {
+      "url": "https://s1.imagehub.cc/images/2025/06/03/20b8c73a2a3f11ea8b8a85e80cde5114.png",
+      "title": "请挂vpn",
+      "package": "com.wkk.kongbao",
+      "hideShadow": false
+    }
+  ]
+}
