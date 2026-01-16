@@ -242,6 +242,20 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Name: floatingView
 
+Package: com.guashen.GSHongBao
+Version: 4.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/挂神红包助手4.0-2.deb
+Size: 45278
+MD5sum: be9abd743f78c5a5ff78f778a18e0b26
+SHA1: 274fa6ed0acd1311371c6e609f529b44417ac8af
+SHA256: 4e401094f132ed413c398486019d6da507dddeabc05e02dfb08825dd9bb8775f
+Section: System
+Priority: optional
+Author: 挂神
+Name: 挂神红包助手4.0
+
 Package: com.huami.WCExtractRes
 Version: 2.8
 Architecture: iphoneos-arm64
