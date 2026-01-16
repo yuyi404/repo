@@ -292,24 +292,6 @@ Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Name: DYYY
 
-Package: com.huami.dyyy
-Version: 2.1-8
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 680
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.1-8_iphoneos-arm64.deb
-Size: 117452
-MD5sum: 2a8093f916acbaab750ad47f4673abba
-SHA1: edc3ebc5ce0fdaaf5715bf04dbfbdea094c646be
-SHA256: f4cb6610c91a1d38a0caa46fc6a11df8c752f9f403790f748e1d23fc9f230eaf
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
-
 Package: com.nathan.dynamicnotland
 Version: 1.2.4
 Architecture: iphoneos-arm64
